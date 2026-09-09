@@ -46,7 +46,7 @@ def cosine_similarity(a, b):
 
 
 # 5. 使用者提問與檢索階段
-user_query = "ERP 的核心價值是什麼？"
+user_query = "ERP 是什麼？"
 print(f"👤 使用者問題：{user_query}\n")
 
 # 將使用者問題轉為向量
